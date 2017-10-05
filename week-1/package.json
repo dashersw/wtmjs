@@ -1,0 +1,17 @@
+{
+  "name": "wtmjs-week-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r @std/esm ."
+  },
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@std/esm": "^0.11.2"
+  },
+  "@std/esm": {
+    "esm": "js"
+  }
+}
