@@ -1,4 +1,4 @@
-export default class Person {
+module.exports =  class Person {
     constructor(name) {
         this.name = name;
         this.interests = [];
