@@ -1,0 +1,11 @@
+{
+  "name": "week-2",
+  "version": "1.0.0",
+  "description": "Week 2 project",
+  "main": "index.js",
+  "author": "Armagan Amcalar <armagan@amcalar.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ansi-red": "^0.1.1"
+  }
+}
